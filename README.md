@@ -2,8 +2,7 @@
 
 A fully responsive, production-ready website for a subscription-based meal service. Built with a mobile-first approach, semantic HTML, and modern CSS to ensure top-tier performance, accessibility, and user experience.
 
-**Live Demo:** [https://darling-valkyrie-624c80.netlify.app/](https://darling-valkyrie-624c8
-0.netlify.app/)
+**Live Demo:** [https://my-omnifood-clone.netlify.app/](https://my-omnifood-clone.netlify.app/)
 
 ## ✨ Features
 
