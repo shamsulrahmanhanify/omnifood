@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Omnifood | Healthy Meals, Delivered
 
 A fully responsive, production-ready website for a subscription-based meal service. Built with a mobile-first approach, semantic HTML, and modern CSS to ensure top-tier performance, accessibility, and user experience.
@@ -70,3 +71,7 @@ The project is deployed via **Netlify**.
 -   The original design concept and inspiration are by **Jonas Schmedtmann**.
 -   Icons provided by [Ionicons](https://ionicons.com/).
 -   Fonts provided by [Google Fonts](https://fonts.google.com/).
+=======
+# omnifood
+A responsive food subscription website built with HTML, CSS
+>>>>>>> 6721e9ff65736cff45e8f3709be75027148ff156
